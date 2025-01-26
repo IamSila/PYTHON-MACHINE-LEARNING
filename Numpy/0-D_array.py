@@ -6,6 +6,12 @@ array_0D = np.array(42)
 
 
 """create a 1-D aray with the values 1 2 3 4 5"""
-array_1D = np.array(1, 2, 3, 4, 5)
+array_1D = np.array([1, 2, 3, 4, 5])
+
+
+
+"""Create a 2-D array containing two arrays with the values 1,2,3 and 4,5,6"""
+array_2D = np.array([1, 2, 3], [4, 5, 6])
+
 
 
