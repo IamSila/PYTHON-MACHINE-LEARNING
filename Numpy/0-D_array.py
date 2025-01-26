@@ -3,4 +3,9 @@
 
 import numpy as np
 array_0D = np.array(42)
-print(array_0D)
+
+
+"""create a 1-D aray with the values 1 2 3 4 5"""
+array_1D = np.array(1, 2, 3, 4, 5)
+
+
